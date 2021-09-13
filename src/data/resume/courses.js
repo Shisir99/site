@@ -8,7 +8,6 @@ const courses = [
   {
     title: 'Operating Systems',
     number: 'N/A',
-    link: 'http://cs229.stanford.edu/',
     university: 'Coursera',
   },
   {
@@ -20,13 +19,11 @@ const courses = [
   {
     title: 'Database Management System',
     number: 'N/A',
-    link: 'http://scpd.stanford.edu/search/publicCourseSearchDetails.do;jsessionid=561188A06434D7D97953C4706DE12831?method=load&courseId=11685',
     university: 'Coursera',
   },
   {
     title: 'Computer Networking',
     number: 'N/A',
-    link: 'http://web.stanford.edu/class/cme304/',
     university: 'Coursera',
   },
   {

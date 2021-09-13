@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "https://mldangelo.com/",
-  "license": "MIT",
+  "homepage": "https://devops1101.herokuapp.com/home",
+  "license": "IIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/Shisir99/site"
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
