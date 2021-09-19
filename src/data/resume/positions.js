@@ -9,7 +9,7 @@ const positions = [
   {
     company: 'Truminds Software Systems, Gurgaon',
     position: 'Winter Intern',
-    daterange: 'January 2014 - Present',
+    daterange: 'Dec 2019 - Jan 2020',
     points: [
       'Developed a software module in Node.js which automated the process of manual verification of consistency in data received from all the KPI’s.',
       'Generated the reports of all KPI’s and sent mail to clients with reports attached through an API.'],
