@@ -1,7 +1,7 @@
 {
   "name": "personal-site",
   "version": "3.0.1",
-  "homepage": "http://Shisir99.github.io/site",
+  "homepage": "http://{Shisir99}.github.io/site",
   "license": "IIT",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   },
   "scripts": {
     "build": "rimraf ./build && react-scripts build",
-    "predeploy": "npm run build",
+    "predeploy": "npm run build && react-snap",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "lint": "eslint src",
