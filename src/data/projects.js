@@ -33,7 +33,7 @@ const data = [
   },
   {
     title: 'ANDROID APPLICATION FOR DELIVERING PARCELS USING'
-          + 'BICYCLE',
+          + ' BICYCLE',
     subtitle: 'Android Application',
     image: '/images/projects/android.jpg',
     date: '2019-05-15',
