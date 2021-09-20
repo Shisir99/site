@@ -27,7 +27,7 @@ const data = [
     image: '/images/projects/nidra.jpg',
     date: '2018-05-20',
     desc:
-      'Arduino based device using bluetooth module and gyro sensorto detect to '
+      'Arduino based device using bluetooth module and gyro sensor to detect to '
       + 'detect sleep walking. '
       + 'An automated band was used to alarm people in case of sleep walk. ',
   },
