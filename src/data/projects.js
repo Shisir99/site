@@ -18,7 +18,7 @@ const data = [
     date: '2020-09-20',
     desc:
     'Developed a working bus booking web application using Node.js and '
-    + 'React.Js and MySQL.'
+    + 'React.Js and MySQL. '
     + 'Confirmed tickets with all details were sent to customers using REST API.',
   },
   {
@@ -29,7 +29,7 @@ const data = [
     desc:
       'Arduino based device using bluetooth module and gyro sensorto detect to '
       + 'detect sleep walking. '
-      + 'An automated band was used to alarm people in case of sleep walk ',
+      + 'An automated band was used to alarm people in case of sleep walk. ',
   },
   {
     title: 'ANDROID APPLICATION FOR DELIVERING PARCELS USING'
@@ -39,7 +39,7 @@ const data = [
     date: '2019-05-15',
     desc:
     'Practical application of Travelling Salesperson Problem for suggesting '
-    + 'optimal route for deliveries',
+    + 'optimal route for deliveries.',
   },
   {
     title: 'Notes Application(CLI based)',

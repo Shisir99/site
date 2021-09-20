@@ -8,12 +8,12 @@ const degrees = [
   {
     school: 'Bal Vidyapeeth Public School',
     degree: 'Higher Secondary',
-    year: 2014 - 16,
+    year: 2016,
   },
   {
     school: 'Holy Family Convent School',
     degree: 'Secondary',
-    year: 2002 - 14,
+    year: 2014,
   },
 ];
 
